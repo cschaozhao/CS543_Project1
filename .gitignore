@@ -1,5 +1,4 @@
 .vscode
-data
 cs543_proj_1
-# spark-warehouse
-# output
+data
+spark-warehouse
